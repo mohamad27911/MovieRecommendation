@@ -1,11 +1,3 @@
-
-# Environment variables file
 .env
-
-# Virtual environment
-venv/
-env/
-
-
 flask-server/env2/
 
