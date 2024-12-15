@@ -1,7 +1,3 @@
-# Python compiled files
-__pycache__/
-*.py[cod]
-*$py.class
 
 # Environment variables file
 .env
@@ -10,72 +6,6 @@ __pycache__/
 venv/
 env/
 
-# IDE-specific files
-.vscode/
-.idea/
-*.swp
-
-# Logs and debug output
-*.log
-*.out
-*.err
-
-# Flask-specific
-instance/
-*.sqlite3
-*.db
-
-# Static file caches
-staticfiles/
-*.cache
-
-# Testing
-.coverage
-.tox/
-nosetests.xml
-pytest_cache/
-.pytest_cache/
-htmlcov/
-
-# Distribution / Packaging
-build/
-dist/
-*.egg-info/
-.eggs/
-
-# OS-specific files
-.DS_Store
-Thumbs.db
-
-# Backup files
-*.bak
-*.tmp
-*.old
-
-# Logs
-logs
-*.log
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-pnpm-debug.log*
-lerna-debug.log*
-
-node_modules
-dist
-dist-ssr
-*.local
-
-# Editor directories and files
-.vscode/*
-!.vscode/extensions.json
-.idea
-.DS_Store
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
 
 flask-server/env2/
 
