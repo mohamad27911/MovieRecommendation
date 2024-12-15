@@ -78,4 +78,5 @@ dist-ssr
 *.sw?
 
 flask-server/env2/
+client/node_modules
 
