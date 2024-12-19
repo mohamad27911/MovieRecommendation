@@ -1,3 +1,11 @@
+# Ignore the .env file
 .env
-flask-server/env2/
 
+# Ignore everything in the flask-server folder
+/flask-server/*
+
+# But don't ignore server.py
+!/flask-server/server.py
+
+# Ignore the entire client folder
+client/
